@@ -103,7 +103,7 @@ nav ul li a:hover
 /* Ballancin Description */
 .Games-section
 {
-    background-color: rgba(175, 100, 13, 0.897);
+    background-color: rgba(235, 140, 31, 0.897);
 
 }
 .Games-section h1
@@ -127,8 +127,9 @@ nav ul li a:hover
     font-size: 22px;
     line-height: 2;
     width: 80%;
-    color: white;
-    text-shadow: 1px 1px .2px black;
+    color: rgb(240, 240, 240);
+    font-weight: 600;
+    text-shadow: 3px 2px 1px rgb(146, 3, 127);
     padding-bottom: 90px;
     padding-left: 30px;
 }
@@ -151,7 +152,7 @@ nav ul li a:hover
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    background-color: rgba(218, 71, 255, 0.801);
+    background-color: rgba(231, 61, 223, 0.801);
 }
 
 .FollowMe .Texto-General div
@@ -172,7 +173,7 @@ nav ul li a:hover
     line-height: 2;
     font-size: 22px;
     margin-top: 30px;
-    text-shadow: 1px 1px 1px black;
+    text-shadow: 2px 5px 5px black;
 
 }
 .FollowMe img
